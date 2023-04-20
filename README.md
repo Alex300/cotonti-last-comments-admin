@@ -1,6 +1,6 @@
 # Recent Comments in Admin Panel
 
-This plugin displays the latest comments on the main page of the Admin panel. It helps administrators to easily keep 
+This plugin displays the recent comments on the main page of the Admin panel. It helps administrators to easily keep 
 track of the latest comments without visiting any page.
 
 Authors: [esclkm](https://www.cotonti.com/users/esclkm), Cotonti Team
